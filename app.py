@@ -44,9 +44,12 @@ config = types.GenerateContentConfig(
 
 if "chat_session" not in st.session_state:
     st.session_state.chat_session = client.chats.create(
-        model="gemini-2.5-flash",
-        config=config
-    )
+   "models/gemini-2.5-flash-lite",
+    generation_config={
+        "max_output_tokens": 100,
+        "temperature": 0.2
+    }
+)
 
 
 st.title("💬 Tanya-Pajak")
