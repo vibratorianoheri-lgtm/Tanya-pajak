@@ -1,1 +1,1 @@
-Tanya-pajak adalah semacam aplikasi chatbot berbasis kecerdasan buatan (LLM) yang dirancang untuk menjawab pertanyaan seputar regulasi, prosedur administrasi, dan panduan layanan perpajakan di Indonesia secara realtime dan interaktif.
+Semacam akal imitasi untuk menjawab pertanyaan seputar regulasi, prosedur administrasi, dan panduan layanan perpajakan di Indonesia secara realtime dan interaktif.
